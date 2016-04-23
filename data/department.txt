@@ -1,0 +1,72 @@
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'ICU' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'NICU' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Accident and emergency (A&E)' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Anaesthetics' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Breast screening' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Chaplaincy' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Critical care' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Discharge lounge' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Ear nose and throat (ENT)' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Elderly services department' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Gastroenterology' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Haematology' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'MaMicrobiologyternity department' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Nephrology' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Neurology' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Nutrition and dietetics' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Obstetrics and gynaecology units' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Occupational therapy' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Oncology' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Orthopaedics' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Pain management clinics' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Pharmacy' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Physiotherapy' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Radiotherapy' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Renal unit' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Rheumatology' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Sexual health (genitourinary medicine)' );
+INSERT INTO pdhp_dept ( dept_name ) VALUES ( 'Urology' );
+
+Departments: 
+ICU 
+NICU
+Accident and emergency (A&E)
+Anaesthetics
+Breast screening
+Chaplaincy
+Critical care
+Discharge lounge
+Ear nose and throat (ENT)
+Elderly services department
+Gastroenterology
+General surgery
+Gynaecology
+Haematology
+MaMicrobiologyternity departments
+Nephrology
+Neurology
+Nutrition and dietetics
+Obstetrics and gynaecology units
+Occupational therapy
+Oncology
+Orthopaedics
+Pain management clinics
+Pharmacy
+Physiotherapy
+Radiotherapy
+Renal unit
+Rheumatology
+Sexual health (genitourinary medicine)
+Urology
+
+sql: 
+
+
+
+basic template:
+INSERT INTO  pdhp_dept ( dept_name ) VALUES ( value );
+
+specific code: the first one is done for you, please do the rest
+
+
+
