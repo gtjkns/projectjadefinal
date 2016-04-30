@@ -1,0 +1,603 @@
+INSERT INTO pdhp_symptom(symptom) VALUES ('A cough that does not go away or gets worse');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Coughing up blood or rust-colored sputum (spit or phlegm)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Chest pain that is often worse with deep breathing, coughing, or laughing');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Hoarseness');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Weight loss and loss of appetite');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Shortness of breath');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Feeling tired or weak');
+INSERT INTO pdhp_symptom(symptom) VALUES ('upper abdominal pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('unplanned weight loss');
+INSERT INTO pdhp_symptom(symptom) VALUES ('appetite loss');
+INSERT INTO pdhp_symptom(symptom) VALUES ('weakness');
+INSERT INTO pdhp_symptom(symptom) VALUES ('jaundice (yellowing of the skin or white area of eyes');
+INSERT INTO pdhp_symptom(symptom) VALUES ('light or white chalk-like stools');
+INSERT INTO pdhp_symptom(symptom) VALUES ('A lump or enlargement in either testicle');
+INSERT INTO pdhp_symptom(symptom) VALUES ('A feeling of heaviness in the scrotum');
+INSERT INTO pdhp_symptom(symptom) VALUES ('A dull ache in the abdomen or groin');
+INSERT INTO pdhp_symptom(symptom) VALUES ('A sudden collection of fluid in the scrotum');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Enlargement or tenderness of the breasts');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Pain or discomfort in a testicle or the scrotum');
+INSERT INTO pdhp_symptom(symptom) VALUES ('skin irritation or dimpling');
+INSERT INTO pdhp_symptom(symptom) VALUES ('breast pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('nipple pain or the nipple turning inward');
+INSERT INTO pdhp_symptom(symptom) VALUES ('redness, scaliness, or thickening of the nipple or breast skin');
+INSERT INTO pdhp_symptom(symptom) VALUES ('a nipple discharge other than breast milk');
+INSERT INTO pdhp_symptom(symptom) VALUES ('a lump in the underarm area');
+INSERT INTO pdhp_symptom(symptom) VALUES ('A lump or enlargement in either testicle');
+INSERT INTO pdhp_symptom(symptom) VALUES ('A feeling of heaviness in the scrotum');
+INSERT INTO pdhp_symptom(symptom) VALUES ('A dull ache in the abdomen or groin');
+INSERT INTO pdhp_symptom(symptom) VALUES ('A sudden collection of fluid in the scrotum');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Pain or discomfort in a testicle or the scrotum');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Enlargement or tenderness of the breasts');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Back pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('swelling of all or part of the breast');
+INSERT INTO pdhp_symptom(symptom) VALUES ('skin irritation or dimpling');
+INSERT INTO pdhp_symptom(symptom) VALUES ('jaundice (yellow skin)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('weight loss');
+INSERT INTO pdhp_symptom(symptom) VALUES ('dark urine');
+INSERT INTO pdhp_symptom(symptom) VALUES ('light stool color');
+INSERT INTO pdhp_symptom(symptom) VALUES ('itching');
+INSERT INTO pdhp_symptom(symptom) VALUES ('abdominal pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('vomiting');
+INSERT INTO pdhp_symptom(symptom) VALUES ('abdominal pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Enlargement or tenderness of the breasts');
+INSERT INTO pdhp_symptom(symptom) VALUES ('enlarged lymph nodes in the neck');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Swelling of lymph nodes or glands in the neck, under the arms, or in the groin');
+INSERT INTO pdhp_symptom(symptom) VALUES ('a discomfort or fullness in the upper left part of the abdomen');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Fever');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Abnormal bleeding');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Shortness of breath');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Weight loss');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Fatigue');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Pica');
+INSERT INTO pdhp_symptom(symptom) VALUES ('painless swollen lymphs at neck');
+INSERT INTO pdhp_symptom(symptom) VALUES ('painless swollen lymphs at groin');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Fever');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Night sweats');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Pain in the front of the neck, sometimes going up to the ears');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Hoarseness or other voice changes that do not go away');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Trouble swallowing');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Infantile Tay–Sachs');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Juvenile Tay–Sachs');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Adult/Late-Onset Tay–Sachs');
+INSERT INTO pdhp_symptom(symptom) VALUES ('flat facial features');
+INSERT INTO pdhp_symptom(symptom) VALUES ('small head and ears');
+INSERT INTO pdhp_symptom(symptom) VALUES ('flat facial features');
+INSERT INTO pdhp_symptom(symptom) VALUES ('short neck');
+INSERT INTO pdhp_symptom(symptom) VALUES ('bulging tongue');
+INSERT INTO pdhp_symptom(symptom) VALUES ('eyes that slant upward');
+INSERT INTO pdhp_symptom(symptom) VALUES ('oddly shaped ears');
+INSERT INTO pdhp_symptom(symptom) VALUES ('poor muscle tone');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Sleep Dysfunction');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Seizure Disorders');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Sensory Processing Problems');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Persistent Diarrhea');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Rectal bleeding');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Urgent need to move bowels');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Abdominal cramps and pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Sensation of incomplete evacuation');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Constipation (can lead to bowel obstruction)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('increased abdominal sounds');
+INSERT INTO pdhp_symptom(symptom) VALUES ('bloody stools');
+INSERT INTO pdhp_symptom(symptom) VALUES ('rectal pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('malnutrition');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Discomfort in the arms');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Discomfort in back');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Discomfort in neck');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Discomfort in jaw');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Discomfort in upper part of stomach');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Fainting');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Light-headedness');
+INSERT INTO pdhp_symptom(symptom) VALUES ('vomiting');
+INSERT INTO pdhp_symptom(symptom) VALUES ('cold sweat');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Sleep problems');
+INSERT INTO pdhp_symptom(symptom) VALUES ('a persistent headache');
+INSERT INTO pdhp_symptom(symptom) VALUES ('blurred or double vision');
+INSERT INTO pdhp_symptom(symptom) VALUES ('nosebleeds');
+INSERT INTO pdhp_symptom(symptom) VALUES ('shortness of breath');
+INSERT INTO pdhp_symptom(symptom) VALUES ('general fatigue');
+INSERT INTO pdhp_symptom(symptom) VALUES ('weakness');
+INSERT INTO pdhp_symptom(symptom) VALUES ('pale skin');
+INSERT INTO pdhp_symptom(symptom) VALUES ('shortness of breath');
+INSERT INTO pdhp_symptom(symptom) VALUES ('dizziness');
+INSERT INTO pdhp_symptom(symptom) VALUES ('strange cravings to eat items that arent food, such as dirt, ice, or clay');
+INSERT INTO pdhp_symptom(symptom) VALUES ('a tingling or crawling feeling in the legs');
+INSERT INTO pdhp_symptom(symptom) VALUES ('tongue swelling or soreness');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Cold fingers or toes');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Color changes in your skin in response to cold or stress');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Numb, prickly feeling or stinging pain upon warming or stress relief');
+INSERT INTO pdhp_symptom(symptom) VALUES ('irregular heartbeat');
+INSERT INTO pdhp_symptom(symptom) VALUES ('a cough that develops from congested lungs');
+INSERT INTO pdhp_symptom(symptom) VALUES ('wheezing');
+INSERT INTO pdhp_symptom(symptom) VALUES ('shortness of breath, which may indicate pulmonary edema');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Breathlessness with exertion or even at rest');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Swelling of the legs, ankles and feet');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Bloating of the abdomen due to fluid buildup');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Cough while lying down');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Irregular heartbeats that feel rapid, pounding or fluttering');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Chest pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Rapid or irregular heart rate');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Pale skin');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Frequent or prolonged infections');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Unexplained or easy bruising');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Nosebleeds and bleeding gums');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Prolonged bleeding from cuts');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Joint pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Joint tenderness');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Joint swelling');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Joint redness');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Joint warmth');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Joint stiffness');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Loss of joint range of motion');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Headache');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Swelling (edema) in feet');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Swelling legs');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Sweliing hands');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Swelling around eyes');
+INSERT INTO pdhp_symptom(symptom) VALUES ('swollen lymph glands');
+INSERT INTO pdhp_symptom(symptom) VALUES ('unusual lesions on the tongue');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Skin rashes and bumps');
+INSERT INTO pdhp_symptom(symptom) VALUES ('chronic fatigue');
+INSERT INTO pdhp_symptom(symptom) VALUES ('blurred or distorted vision');
+INSERT INTO pdhp_symptom(symptom) VALUES ('rash on the arms, legs, face, or belly');
+INSERT INTO pdhp_symptom(symptom) VALUES ('sore throat');
+INSERT INTO pdhp_symptom(symptom) VALUES ('swollen lymph glands');
+INSERT INTO pdhp_symptom(symptom) VALUES ('mouth or genital ulcers');
+INSERT INTO pdhp_symptom(symptom) VALUES ('bad headaches');
+INSERT INTO pdhp_symptom(symptom) VALUES ('muscle aches and joint pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Abnormally dark or light skin');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Bone pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Drowsiness or problems concentrating or thinking');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Numbness or swelling in the hands and feet');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Muscle twitching or cramps');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Breath odor');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Easy bruising, or blood in the stool');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Excessive thirst');
+INSERT INTO pdhp_symptom(symptom) VALUES ('nausea or vomiting');
+INSERT INTO pdhp_symptom(symptom) VALUES ('pain in your stomach');
+INSERT INTO pdhp_symptom(symptom) VALUES ('joint or muscle pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('abnormalities in urine or bowel movements');
+INSERT INTO pdhp_symptom(symptom) VALUES ('a yellowing in your eyes or skin');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Pain in your pelvis or between the vagina and anus in women or between the scrotum and anus in men (perineum)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Chronic pelvic pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('A persistent, urgent need to urinate');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Frequent urination');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Pain or discomfort while the bladder fills and relief after urinating');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Pain during sexual intercourse');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Upper abdominal pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Abdominal pain that radiates to your back');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Abdominal pain that feels worse after eating');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Tenderness when touching the abdomen');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Abdominal pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Bloating or swelling in the abdomen');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Feeling full');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Bleeding into a cyst');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Infection of a cyst');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Bile duct obstruction and jaundice');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Shortness of breath, particularly during exercise');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Dry, hacking cough');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Fast, shallow breathing');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Gradual unintended weight loss');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Tiredness');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Aching joints and muscles');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Clubbing (widening and rounding) of the tips of the fingers or toes');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Coughing, especially at night, during exercise or when laughing');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Difficulty breathing');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Chest tightness');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Wheezing (a whistling or squeaky sound in your chest when breathing, especially when exhaling');
+INSERT INTO pdhp_symptom(symptom) VALUES ('COPD can cause breathlessness (also called shortness of breath or dyspnea)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('cough');
+INSERT INTO pdhp_symptom(symptom) VALUES ('production of mucus/sputum/phlegm');
+INSERT INTO pdhp_symptom(symptom) VALUES ('tiredness(also called fatigue)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Symptoms such as breathlessness');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Exercise intolerance');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Repeated lung infections');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Inflamed nasal passages or a stuffy nose');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Foul-smelling, greasy stools');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Poor weight gain and growth');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Intestinal blockage, particularly in newborns (meconium ileus)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Severe constipation');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Shortness of breath (dyspnea), initially while exercising and eventually while at rest');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Dizziness or fainting spells (syncope)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Chest pressure or pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Swelling (edema) in your ankles, legs and eventually in your abdomen (ascites)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('asthma');
+INSERT INTO pdhp_symptom(symptom) VALUES ('emphysema');
+INSERT INTO pdhp_symptom(symptom) VALUES ("bronchiectasis");
+INSERT INTO pdhp_symptom(symptom) VALUES ('Penile erection occurs but it is not maintained for the length of sexual activity');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Penile erection that is not firm enough to penetrate the vagina');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Inability to obtain a penile erection');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Changes in hair growth');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Changes in sexual desire');
+INSERT INTO pdhp_symptom(symptom) VALUES ("Pain, lump, or swelling in the testicles");
+INSERT INTO pdhp_symptom(symptom) VALUES ('Problems with erections and ejaculation');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Small, firm testicles');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Frequent or urgent need to urinate');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Increased frequency of urination at night (nocturia)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Difficulty starting urination');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Weak urine stream or a stream that stops and starts');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Dribbling at the end of urination');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Straining while urinating');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Inability to completely empty the bladder');
+INSERT INTO pdhp_symptom(symptom) VALUES ('slowness of movement, tremor, or rigidity (stiffness)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('clumsiness or incoordination');
+INSERT INTO pdhp_symptom(symptom) VALUES ('impaired speech, a croaky, quivering voice');
+INSERT INTO pdhp_symptom(symptom) VALUES ('fainting or lightheadedness due to orthostatic hypotension');
+INSERT INTO pdhp_symptom(symptom) VALUES ('bladder control problems, such as a sudden urge to urinate or difficulty emptying the bladder');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Loss or blurring of vision in one or both eyes');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Loss of color vision');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Stiffness, weakness and spasticity in your legs Tripping, difficulty with balance');
+INSERT INTO pdhp_symptom(symptom) VALUES ('clumsiness as the leg muscles weaken');
+INSERT INTO pdhp_symptom(symptom) VALUES ('sudden loss of balance when walking, that usually results in repeatedfalls, often backwards');
+INSERT INTO pdhp_symptom(symptom) VALUES ('muscle stiffness, particularly in the neck');
+INSERT INTO pdhp_symptom(symptom) VALUES ('extreme tiredness');
+INSERT INTO pdhp_symptom(symptom) VALUES ('changes in personality, such as irritability, apathy (lack of interest) and mood swings');
+INSERT INTO pdhp_symptom(symptom) VALUES ('changes in behaviour, such as recklessness and poor judgement');
+INSERT INTO pdhp_symptom(symptom) VALUES ('a dislike of bright lights (photophobia)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('difficulty controlling the eye muscles, particularly problems with looking up and down');
+INSERT INTO pdhp_symptom(symptom) VALUES ('blurred or double vision');
+INSERT INTO pdhp_symptom(symptom) VALUES ('a clumsy or useless hand');
+INSERT INTO pdhp_symptom(symptom) VALUES ('muscle stiffness');
+INSERT INTO pdhp_symptom(symptom) VALUES ('shaking (tremors) and spasms (dystonia)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('loss of feeling');
+INSERT INTO pdhp_symptom(symptom) VALUES ('feeling like the limb doesnt belong to you (an alien limb)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('problems recalling words, reading and using correct language (aphasia)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('short-term memory loss');
+INSERT INTO pdhp_symptom(symptom) VALUES ('problems carrying out tasks that require planning or thinking ahead');
+INSERT INTO pdhp_symptom(symptom) VALUES ('problems coping with sudden and unexpected situations');
+INSERT INTO pdhp_symptom(symptom) VALUES ('difficulty with numbers and counting');
+INSERT INTO pdhp_symptom(symptom) VALUES ('difficulty seeing things, or knowing where they are located (such as furniture)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Sudden numbness or weakness in the face, arm, or leg, especially on one side of the body');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Sudden confusion, trouble speaking, or difficulty understanding speech');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Sudden trouble seeing in one or both eyes');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Sudden trouble walking, dizziness, loss of balance, or lack of coordination');
+INSERT INTO pdhp_symptom(symptom) VALUES ('feeling dizzy or faint');
+INSERT INTO pdhp_symptom(symptom) VALUES ('increased sensitivity to light and sound');
+INSERT INTO pdhp_symptom(symptom) VALUES ('nausea');
+INSERT INTO pdhp_symptom(symptom) VALUES ('pain on one side of the head');
+INSERT INTO pdhp_symptom(symptom) VALUES ('pulsing and/or throbbing pain');
+INSERT INTO pdhp_symptom(symptom) VALUES ('vomiting');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Plaques of red, inflamed skin, often covered with loose, silver-colored scales');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Disorders of the fingernails and toenails, including discoloration and pitting of the nails');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Scaly plaques on the scalp');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Visible broken blood vessels (spider veins)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Swollen skin');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Skin may be very sensitive');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Skin may sting and burn');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Dry skin, roughness or scaling');
+INSERT INTO pdhp_symptom(symptom) VALUES ("Have a tendency to flush or blush more easily than other people");
+INSERT INTO pdhp_symptom(symptom) VALUES ('dermatitis');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Abdominal cramps or back pain during menstruation');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Very painful menstrual cramps');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Painful bowel movements');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Painful urination, especially during menstruation');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Abnormal or heavy bleeding during periods');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Painful sex');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Difficulty becoming pregnant');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Infertility (not able to get pregnant) because of not ovulating');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Infrequent, absent, and/or irregular menstrual periods');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Hirsutism (HER-suh-tiz-um)');
+INSERT INTO pdhp_symptom(symptom) VALUES ('increased hair growth on the face');
+INSERT INTO pdhp_symptom(symptom) VALUES ('increased hair growth chest');
+INSERT INTO pdhp_symptom(symptom) VALUES ('increased hair growth stomach');
+INSERT INTO pdhp_symptom(symptom) VALUES ('increased hair growth on the back');
+INSERT INTO pdhp_symptom(symptom) VALUES ('increased hair growth thumbs or toes');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Cysts on the ovaries');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Acne, oily skin, or dandruff');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Depressed mood or severe mood swings');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Excessive crying');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Difficulty bonding with your baby');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Withdrawing from family and friends');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Loss of appetite or eating much more than usual');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Inability to sleep (insomnia) or sleeping too much');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Overwhelming fatigue or loss of energy');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Vaginal dryness');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Mood swing');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Hot flashes');
+INSERT INTO pdhp_symptom(symptom) VALUES ('UTIs');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Decreased sex drive');
+INSERT INTO pdhp_symptom(symptom) VALUES ('Bodily aches');
+
+
+
+
+
+A cough that does not go away or gets worse
+Coughing up blood or rust-colored sputum (spit or phlegm)
+Chest pain that is often worse with deep breathing, coughing, or laughing
+Hoarseness
+Weight loss and loss of appetite
+Shortness of breath
+Feeling tired or weak
+upper abdominal pain
+unplanned weight loss
+appetite loss
+weakness
+jaundice (yellowing of the skin or white area of eyes), and
+light or white chalk-like stools
+A lump or enlargement in either testicle
+A feeling of heaviness in the scrotum
+A dull ache in the abdomen or groin
+A sudden collection of fluid in the scrotum
+Pain or discomfort in a testicle or the scrotum
+Enlargement or tenderness of the breasts
+Back pain
+swelling of all or part of the breast
+skin irritation or dimpling
+breast pain
+nipple pain or the nipple turning inward
+redness, scaliness, or thickening of the nipple or breast skin
+a nipple discharge other than breast milk
+a lump in the underarm area
+A lump or enlargement in either testicle
+A feeling of heaviness in the scrotum
+A dull ache in the abdomen or groin
+A sudden collection of fluid in the scrotum
+Pain or discomfort in a testicle or the scrotum
+Enlargement or tenderness of the breasts
+Back pain
+weight loss
+jaundice (yellow skin)
+dark urine
+light stool color
+itching
+vomiting
+abdominal pain
+enlarged lymph nodes in the neck
+Swelling of lymph nodes or glands in the neck, under the arms, or in the groin
+Discomfort or fullness in the upper left part of the abdomen
+Fever
+Abnormal bleeding
+Shortness of breath
+Weight loss
+Fatigue
+Chills
+painless swollen lymphs at neck
+painless swollen lymphs at groin
+Fatigue
+Fever
+Night sweats
+Pain in the front of the neck, sometimes going up to the ears
+Hoarseness or other voice changes that do not go away
+Trouble swallowing
+Infantile Tay–Sachs
+Juvenile Tay–Sachs
+Adult/Late-Onset Tay–Sachs 
+flat facial features
+small head and ears
+short neck
+bulging tongue
+eyes that slant upward
+oddly shaped ears
+poor muscle tone
+Pica
+Sleep Dysfunction
+Seizure Disorders
+Sensory Processing Problems
+Persistent Diarrhea
+Rectal bleeding
+Urgent need to move bowels
+Abdominal cramps and pain
+Sensation of incomplete evacuation
+Constipation (can lead to bowel obstruction)
+increased abdominal sounds
+bloody stools
+rectal pain
+malnutrition
+Discomfort in the arms
+Discomfort in back
+Discomfort in neck
+Discomfort in jaw
+Discomfort in upper part of stomach
+Fainting
+Light-headedness
+vomiting
+cold sweat
+Sleep problems
+a persistent headache
+blurred or double vision
+nosebleeds
+shortness of breath
+general fatigue
+weakness
+pale skin
+shortness of breath
+dizziness
+strange cravings to eat items that arent food, such as dirt, ice, or clay
+a tingling or crawling feeling in the legs
+tongue swelling or soreness
+Cold fingers or toes
+Color changes in your skin in response to cold or stress
+Numb, prickly feeling or stinging pain upon warming or stress relief
+irregular heartbeat
+a cough that develops from congested lungs
+wheezing
+shortness of breath, which may indicate pulmonary edema
+Breathlessness with exertion or even at rest
+Swelling of the legs, ankles and feet
+Bloating of the abdomen due to fluid buildup
+Cough while lying down
+Irregular heartbeats that feel rapid, pounding or fluttering
+Chest pain
+Rapid or irregular heart rate
+Pale skin
+Frequent or prolonged infections
+Unexplained or easy bruising
+Nosebleeds and bleeding gums
+Prolonged bleeding from cuts
+Joint pain
+Joint tenderness
+Joint swelling
+Joint redness
+Joint warmth
+Joint stiffness
+Loss of joint range of motion
+Headache
+Fever
+Swelling (edema) in feet
+Swelling legs
+Sweliing hands
+Swelling around eyes
+swollen lymph glands
+unusual lesions on the tongue
+Skin rashes and bumps
+chronic fatigue
+blurred or distorted vision
+rash on the arms, legs, face, or belly
+sore throat
+swollen lymph glands
+mouth or genital ulcers
+bad headaches
+muscle aches and joint pain
+Abnormally dark or light skin
+Bone pain
+Drowsiness or problems concentrating or thinking
+Numbness or swelling in the hands and feet
+Muscle twitching or cramps
+Breath odor
+Easy bruising, or blood in the stool
+Excessive thirst
+nausea or vomiting
+pain in your stomach
+joint or muscle pain
+abnormalities in urine or bowel movements
+a yellowing in your eyes or skin
+Pain in your pelvis or between the vagina and anus in women or between the scrotum and anus in men (perineum)
+Chronic pelvic pain
+A persistent, urgent need to urinate
+Frequent urination
+Pain or discomfort while the bladder fills and relief after urinating
+Pain during sexual intercourse
+Upper abdominal pain
+Abdominal pain that radiates to your back
+Abdominal pain that feels worse after eating
+Tenderness when touching the abdomen
+Abdominal pain
+Bloating or swelling in the abdomen
+Feeling full
+Bleeding into a cyst
+Infection of a cyst
+Bile duct obstruction and jaundice 
+Shortness of breath, particularly during exercise
+Dry, hacking cough
+Fast, shallow breathing
+Gradual unintended weight loss
+Tiredness
+Aching joints and muscles
+Clubbing (widening and rounding) of the tips of the fingers or toes
+Coughing, especially at night, during exercise or when laughing
+Difficulty breathing
+Chest tightness
+Wheezing (a whistling or squeaky sound in your chest when breathing, especially when exhaling
+COPD can cause breathlessness (also called shortness of breath or dyspnea)
+cough
+production of mucus/sputum/phlegm 
+tiredness(also called fatigue)
+Symptoms such as breathlessness
+Exercise intolerance
+Repeated lung infections
+Inflamed nasal passages or a stuffy nose
+Foul-smelling, greasy stools
+Poor weight gain and growth
+Intestinal blockage, particularly in newborns (meconium ileus)
+Severe constipation
+Shortness of breath (dyspnea), initially while exercising and eventually while at rest
+Dizziness or fainting spells (syncope)
+Chest pressure or pain
+Swelling (edema) in your ankles, legs and eventually in your abdomen (ascites)
+asthma
+emphysema
+bronchiectasis
+Penile erection occurs but it is not maintained for the length of sexual activity
+Penile erection that is not firm enough to penetrate the vagina
+Inability to obtain a penile erection
+Changes in hair growth
+Changes in sexual desire
+Pain, lump, or swelling in the testicles
+Problems with erections and ejaculation
+Small, firm testicles
+Frequent or urgent need to urinate
+Increased frequency of urination at night (nocturia)
+Difficulty starting urination
+Weak urine stream or a stream that stops and starts
+Dribbling at the end of urination
+Straining while urinating
+Inability to completely empty the bladder
+slowness of movement, tremor, or rigidity (stiffness)
+clumsiness or incoordination
+impaired speech, a croaky, quivering voice
+fainting or lightheadedness due to orthostatic hypotension
+bladder control problems, such as a sudden urge to urinate or difficulty emptying the bladder
+Loss or blurring of vision in one or both eyes
+Loss of color vision
+Stiffness, weakness and spasticity in your legs Tripping, difficulty with balance 
+and clumsiness as the leg muscles weaken
+sudden loss of balance when walking, that usually results in repeatedfalls, often backwards
+muscle stiffness, particularly in the neck
+extreme tiredness
+changes in personality, such as irritability, apathy (lack of interest) and mood swings
+changes in behaviour, such as recklessness and poor judgement
+a dislike of bright lights (photophobia)
+difficulty controlling the eye muscles, particularly problems with looking up and down
+blurred or double vision
+a clumsy or useless hand
+muscle stiffness
+shaking (tremors) and spasms (dystonia)
+loss of feeling
+feeling like the limb doesnt belong to you (an alien limb)
+problems recalling words, reading and using correct language (aphasia)
+short-term memory loss
+problems carrying out tasks that require planning or thinking ahead
+problems coping with sudden and unexpected situations
+difficulty with numbers and counting
+difficulty seeing things, or knowing where they are located (such as furniture)
+Sudden numbness or weakness in the face, arm, or leg, especially on one side of the body
+Sudden confusion, trouble speaking, or difficulty understanding speech
+Sudden trouble seeing in one or both eyes
+Sudden trouble walking, dizziness, loss of balance, or lack of coordination
+feeling dizzy or faint
+increased sensitivity to light and sound
+nausea
+pain on one side of the head
+pulsing and/or throbbing pain
+vomiting
+Plaques of red, inflamed skin, often covered with loose, silver-colored scales 
+Disorders of the fingernails and toenails, including discoloration and pitting of the nails 
+Scaly plaques on the scalp
+Visible broken blood vessels (spider veins)
+Swollen skin
+Skin may be very sensitive
+Skin may sting and burn
+Dry skin, roughness or scaling
+Have a tendency to flush or blush more easily than other people
+ing on the type of dermatitis you have
+Abdominal cramps or back pain during menstruation
+Very painful menstrual cramps
+Painful bowel movements
+Painful urination, especially during menstruation
+Abnormal or heavy bleeding during periods
+Painful sex
+Difficulty becoming pregnant
+Infertility (not able to get pregnant) because of not ovulating 
+Infrequent, absent, and/or irregular menstrual periods
+Hirsutism (HER-suh-tiz-um)
+increased hair growth on the face
+increased hair growth chest
+increased hair growth stomach
+increased hair growth on the back
+increased hair growth thumbs or toes
+Cysts on the ovaries
+Acne, oily skin, or dandruff
+Depressed mood or severe mood swings
+Excessive crying
+Difficulty bonding with your baby
+Withdrawing from family and friends
+Loss of appetite or eating much more than usual
+Inability to sleep (insomnia) or sleeping too much
+Overwhelming fatigue or loss of energy
+Vaginal dryness
+Mood swing 
+Hot flashes
+UTIs
+Decreased sex drive
+Bodily aches
